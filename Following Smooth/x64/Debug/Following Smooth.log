@@ -1,0 +1,4 @@
+﻿  Following Smooth.cpp
+C:\Users\Fi\source\repos\Following Smooth\Following Smooth\Following Smooth.cpp(50,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Fi\source\repos\Following Smooth\Following Smooth\Following Smooth.cpp(50,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Following Smooth.vcxproj -> C:\Users\Fi\source\repos\Following Smooth\x64\Debug\Following Smooth.exe
